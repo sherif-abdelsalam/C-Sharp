@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DotNet\\c_sharp\\LevelD\\Delegates\\Delegates\\Delegates.csproj",
+      "projectUniqueName": "D:\\DotNet\\c_sharp\\C-Sharp\\Delegates\\Delegates\\Delegates.csproj",
       "projectName": "Delegates",
-      "projectPath": "D:\\DotNet\\c_sharp\\LevelD\\Delegates\\Delegates\\Delegates.csproj",
+      "projectPath": "D:\\DotNet\\c_sharp\\C-Sharp\\Delegates\\Delegates\\Delegates.csproj",
       "packagesPath": "C:\\Users\\Sherif Abdelsalam\\.nuget\\packages\\",
-      "outputPath": "D:\\DotNet\\c_sharp\\LevelD\\Delegates\\Delegates\\obj\\",
+      "outputPath": "D:\\DotNet\\c_sharp\\C-Sharp\\Delegates\\Delegates\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sherif Abdelsalam\\AppData\\Roaming\\NuGet\\NuGet.Config",

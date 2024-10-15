@@ -1,0 +1,15 @@
+D:\DotNet\c_sharp\C-Sharp\Delegates\ExampleAfterUsingDelegate\bin\Debug\net8.0\ExampleAfterUsingDelegate.exe
+D:\DotNet\c_sharp\C-Sharp\Delegates\ExampleAfterUsingDelegate\bin\Debug\net8.0\ExampleAfterUsingDelegate.deps.json
+D:\DotNet\c_sharp\C-Sharp\Delegates\ExampleAfterUsingDelegate\bin\Debug\net8.0\ExampleAfterUsingDelegate.runtimeconfig.json
+D:\DotNet\c_sharp\C-Sharp\Delegates\ExampleAfterUsingDelegate\bin\Debug\net8.0\ExampleAfterUsingDelegate.dll
+D:\DotNet\c_sharp\C-Sharp\Delegates\ExampleAfterUsingDelegate\bin\Debug\net8.0\ExampleAfterUsingDelegate.pdb
+D:\DotNet\c_sharp\C-Sharp\Delegates\ExampleAfterUsingDelegate\obj\Debug\net8.0\ExampleAfterUsingDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\c_sharp\C-Sharp\Delegates\ExampleAfterUsingDelegate\obj\Debug\net8.0\ExampleAfterUsingDelegate.AssemblyInfoInputs.cache
+D:\DotNet\c_sharp\C-Sharp\Delegates\ExampleAfterUsingDelegate\obj\Debug\net8.0\ExampleAfterUsingDelegate.AssemblyInfo.cs
+D:\DotNet\c_sharp\C-Sharp\Delegates\ExampleAfterUsingDelegate\obj\Debug\net8.0\ExampleAfterUsingDelegate.csproj.CoreCompileInputs.cache
+D:\DotNet\c_sharp\C-Sharp\Delegates\ExampleAfterUsingDelegate\obj\Debug\net8.0\ExampleAfterUsingDelegate.sourcelink.json
+D:\DotNet\c_sharp\C-Sharp\Delegates\ExampleAfterUsingDelegate\obj\Debug\net8.0\ExampleAfterUsingDelegate.dll
+D:\DotNet\c_sharp\C-Sharp\Delegates\ExampleAfterUsingDelegate\obj\Debug\net8.0\refint\ExampleAfterUsingDelegate.dll
+D:\DotNet\c_sharp\C-Sharp\Delegates\ExampleAfterUsingDelegate\obj\Debug\net8.0\ExampleAfterUsingDelegate.pdb
+D:\DotNet\c_sharp\C-Sharp\Delegates\ExampleAfterUsingDelegate\obj\Debug\net8.0\ExampleAfterUsingDelegate.genruntimeconfig.cache
+D:\DotNet\c_sharp\C-Sharp\Delegates\ExampleAfterUsingDelegate\obj\Debug\net8.0\ref\ExampleAfterUsingDelegate.dll
