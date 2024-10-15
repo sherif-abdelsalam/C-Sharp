@@ -1,0 +1,15 @@
+D:\DotNet\c_sharp\C-Sharp\Events&ObserverPattern\Events&ObserverPattern\bin\Debug\net8.0\Events&ObserverPattern.exe
+D:\DotNet\c_sharp\C-Sharp\Events&ObserverPattern\Events&ObserverPattern\bin\Debug\net8.0\Events&ObserverPattern.deps.json
+D:\DotNet\c_sharp\C-Sharp\Events&ObserverPattern\Events&ObserverPattern\bin\Debug\net8.0\Events&ObserverPattern.runtimeconfig.json
+D:\DotNet\c_sharp\C-Sharp\Events&ObserverPattern\Events&ObserverPattern\bin\Debug\net8.0\Events&ObserverPattern.dll
+D:\DotNet\c_sharp\C-Sharp\Events&ObserverPattern\Events&ObserverPattern\bin\Debug\net8.0\Events&ObserverPattern.pdb
+D:\DotNet\c_sharp\C-Sharp\Events&ObserverPattern\Events&ObserverPattern\obj\Debug\net8.0\Events&ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\c_sharp\C-Sharp\Events&ObserverPattern\Events&ObserverPattern\obj\Debug\net8.0\Events&ObserverPattern.AssemblyInfoInputs.cache
+D:\DotNet\c_sharp\C-Sharp\Events&ObserverPattern\Events&ObserverPattern\obj\Debug\net8.0\Events&ObserverPattern.AssemblyInfo.cs
+D:\DotNet\c_sharp\C-Sharp\Events&ObserverPattern\Events&ObserverPattern\obj\Debug\net8.0\Events&ObserverPattern.csproj.CoreCompileInputs.cache
+D:\DotNet\c_sharp\C-Sharp\Events&ObserverPattern\Events&ObserverPattern\obj\Debug\net8.0\Events&ObserverPattern.sourcelink.json
+D:\DotNet\c_sharp\C-Sharp\Events&ObserverPattern\Events&ObserverPattern\obj\Debug\net8.0\Events&ObserverPattern.dll
+D:\DotNet\c_sharp\C-Sharp\Events&ObserverPattern\Events&ObserverPattern\obj\Debug\net8.0\refint\Events&ObserverPattern.dll
+D:\DotNet\c_sharp\C-Sharp\Events&ObserverPattern\Events&ObserverPattern\obj\Debug\net8.0\Events&ObserverPattern.pdb
+D:\DotNet\c_sharp\C-Sharp\Events&ObserverPattern\Events&ObserverPattern\obj\Debug\net8.0\Events&ObserverPattern.genruntimeconfig.cache
+D:\DotNet\c_sharp\C-Sharp\Events&ObserverPattern\Events&ObserverPattern\obj\Debug\net8.0\ref\Events&ObserverPattern.dll
