@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet\\c_sharp\\C-Sharp\\LibrarayManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10217FBD-D720-401B-B1C2-283CEC1F983D}|LibrarayManagementSystem\\LibrarayManagementSystem.csproj|d:\\dotnet\\c_sharp\\c-sharp\\libraraymanagementsystem\\libraraymanagementsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10217FBD-D720-401B-B1C2-283CEC1F983D}|LibrarayManagementSystem\\LibrarayManagementSystem.csproj|solutionrelative:libraraymanagementsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10217FBD-D720-401B-B1C2-283CEC1F983D}|LibrarayManagementSystem\\LibrarayManagementSystem.csproj|d:\\dotnet\\c_sharp\\c-sharp\\libraraymanagementsystem\\libraraymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10217FBD-D720-401B-B1C2-283CEC1F983D}|LibrarayManagementSystem\\LibrarayManagementSystem.csproj|solutionrelative:libraraymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10217FBD-D720-401B-B1C2-283CEC1F983D}|LibrarayManagementSystem\\LibrarayManagementSystem.csproj|d:\\dotnet\\c_sharp\\c-sharp\\libraraymanagementsystem\\libraraymanagementsystem\\libarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10217FBD-D720-401B-B1C2-283CEC1F983D}|LibrarayManagementSystem\\LibrarayManagementSystem.csproj|solutionrelative:libraraymanagementsystem\\libarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10217FBD-D720-401B-B1C2-283CEC1F983D}|LibrarayManagementSystem\\LibrarayManagementSystem.csproj|d:\\dotnet\\c_sharp\\c-sharp\\libraraymanagementsystem\\libraraymanagementsystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10217FBD-D720-401B-B1C2-283CEC1F983D}|LibrarayManagementSystem\\LibrarayManagementSystem.csproj|solutionrelative:libraraymanagementsystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10217FBD-D720-401B-B1C2-283CEC1F983D}|LibrarayManagementSystem\\LibrarayManagementSystem.csproj|d:\\dotnet\\c_sharp\\c-sharp\\libraraymanagementsystem\\libraraymanagementsystem\\libraryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10217FBD-D720-401B-B1C2-283CEC1F983D}|LibrarayManagementSystem\\LibrarayManagementSystem.csproj|solutionrelative:libraraymanagementsystem\\libraryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10217FBD-D720-401B-B1C2-283CEC1F983D}|LibrarayManagementSystem\\LibrarayManagementSystem.csproj|d:\\dotnet\\c_sharp\\c-sharp\\libraraymanagementsystem\\libraraymanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10217FBD-D720-401B-B1C2-283CEC1F983D}|LibrarayManagementSystem\\LibrarayManagementSystem.csproj|solutionrelative:libraraymanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibraryUser.cs",
+              "DocumentMoniker": "D:\\DotNet\\c_sharp\\C-Sharp\\LibrarayManagementSystem\\LibrarayManagementSystem\\LibraryUser.cs",
+              "RelativeDocumentMoniker": "LibrarayManagementSystem\\LibraryUser.cs",
+              "ToolTip": "D:\\DotNet\\c_sharp\\C-Sharp\\LibrarayManagementSystem\\LibrarayManagementSystem\\LibraryUser.cs",
+              "RelativeToolTip": "LibrarayManagementSystem\\LibraryUser.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T21:25:38.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\DotNet\\c_sharp\\C-Sharp\\LibrarayManagementSystem\\LibrarayManagementSystem\\Book.cs",
+              "RelativeDocumentMoniker": "LibrarayManagementSystem\\Book.cs",
+              "ToolTip": "D:\\DotNet\\c_sharp\\C-Sharp\\LibrarayManagementSystem\\LibrarayManagementSystem\\Book.cs",
+              "RelativeToolTip": "LibrarayManagementSystem\\Book.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:41:21.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Library.cs",
+              "DocumentMoniker": "D:\\DotNet\\c_sharp\\C-Sharp\\LibrarayManagementSystem\\LibrarayManagementSystem\\Library.cs",
+              "RelativeDocumentMoniker": "LibrarayManagementSystem\\Library.cs",
+              "ToolTip": "D:\\DotNet\\c_sharp\\C-Sharp\\LibrarayManagementSystem\\LibrarayManagementSystem\\Library.cs",
+              "RelativeToolTip": "LibrarayManagementSystem\\Library.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:52:56.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Libarian.cs",
+              "DocumentMoniker": "D:\\DotNet\\c_sharp\\C-Sharp\\LibrarayManagementSystem\\LibrarayManagementSystem\\Libarian.cs",
+              "RelativeDocumentMoniker": "LibrarayManagementSystem\\Libarian.cs",
+              "ToolTip": "D:\\DotNet\\c_sharp\\C-Sharp\\LibrarayManagementSystem\\LibrarayManagementSystem\\Libarian.cs",
+              "RelativeToolTip": "LibrarayManagementSystem\\Libarian.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:23:32.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\DotNet\\c_sharp\\C-Sharp\\LibrarayManagementSystem\\LibrarayManagementSystem\\User.cs",
+              "RelativeDocumentMoniker": "LibrarayManagementSystem\\User.cs",
+              "ToolTip": "D:\\DotNet\\c_sharp\\C-Sharp\\LibrarayManagementSystem\\LibrarayManagementSystem\\User.cs",
+              "RelativeToolTip": "LibrarayManagementSystem\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:23:08.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\c_sharp\\C-Sharp\\LibrarayManagementSystem\\LibrarayManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibrarayManagementSystem\\Program.cs",
+              "ToolTip": "D:\\DotNet\\c_sharp\\C-Sharp\\LibrarayManagementSystem\\LibrarayManagementSystem\\Program.cs",
+              "RelativeToolTip": "LibrarayManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T21:09:54.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
